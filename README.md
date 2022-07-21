@@ -1,6 +1,6 @@
 ### Github page 👋
 
-<!--
+
 **Aqui vamos a crear cierto un archivo y luego lo subiremos a Github pages.
 
 
